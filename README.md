@@ -7,15 +7,15 @@ You can search for exercises or sort exercises by body-part or equipment. You wi
 
 Deployed [here](https://jen-gym-exercises.netlify.app/).
 
-  <img src="public\images\capture.png" width="50%" style="background-color: #090b13" align="center"/>
+  <img src="public\images\Capture.png" width="50%" style="background-color: #090b13" align="center"/>
   
   <br />
 
-  <img src="public\images\capture1.png" width="50%" style="background-color: #090b13" align="center"/>
+  <img src="public\images\Capture1.png" width="50%" style="background-color: #090b13" align="center"/>
   
   <br />
 
-  <img src="public\images\capture3.png" width="50%" style="background-color: #090b13" align="center"/>
+  <img src="public\images\Capture3.png" width="50%" style="background-color: #090b13" align="center"/>
 
 ## 💻 Built with
 - [x] [ReactJS](https://reactjs.org);
